@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Inter:wght@300;400;600&family=Ultra&display=swap');
+
+:root {
+    --grey: rgb(239, 239, 239);
+    --red: rgb(234, 16, 85);
+    --accent: rgb(215, 138, 203);
+    --ink: rgb(79, 39, 131);
+    --inkLight: rgb(122, 85, 171);
+    --black: black;
+    --white: white;
+
+    --titleFont: Gloock;
+    --mainFont: Inter;
+}
